@@ -1,0 +1,1 @@
+This project is to book tickets for different Disneyland theme parks. It uses a total of 9 methods anf various arrays to store the user information. This project was coded on BlueJ, a special IDE for Java.
